@@ -2,7 +2,7 @@
 
 **Objetivo:** trabajar con Git sin perder cambios, contribuir a proyectos reales y mejorar la visibilidad de tu perfil y tus repositorios.
 
-> **Idea clave:** Git gestiona versiones en tu equipo; GitHub aloja repositorios y añade perfiles, issues, pull requests, métricas y colaboración. Ningún comando garantiza visitas o estrellas: se consiguen creando y difundiendo proyectos útiles.
+> **Idea clave:** Git gestiona versiones en tu equipo; GitHub aloja repositorios y añade perfiles, issues, pull requests, métricas y colaboración.
 
 ## Índice
 
@@ -14,8 +14,6 @@
 6. Remotos, forks y contribuciones
 7. Stash, etiquetas y limpieza
 8. Seguridad
-9. Perfil de GitHub, visitas y estrellas
-10. Plantillas, plan de acción y soluciones rápidas
 
 ---
 
